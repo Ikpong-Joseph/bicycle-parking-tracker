@@ -2,7 +2,8 @@
 
 A Progressive Web App (PWA) for finding and contributing bicycle parking spots using OpenStreetMap data. No API keys required — all data is free and open.
 
-**Live:** https://bicycle-parking-tracker.vercel.app
+**Live:** https://bicycle-parking-tracker.vercel.app  
+**GitHub:** https://github.com/Ikpong-Joseph/bicycle-parking-tracker
 
 ---
 
